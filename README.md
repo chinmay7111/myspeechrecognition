@@ -1,3 +1,20 @@
+
+# Overview of the Application -
+          It converts the Speech into text and gives functionality to copy that text for your use.
+
+          The Package i use is - 'react-speech-recognition'
+
+# ScreenShot of the Application
+![image](https://github.com/chinmay7111/myspeechrecognition/assets/106151106/2e20b446-beea-47a2-b0bc-8415b39cb23c)
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

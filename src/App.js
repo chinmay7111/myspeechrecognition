@@ -22,7 +22,7 @@ const App = () =>{
         <p className=" text-center mt-6">This is an Speech Recognition Appliction , Which helps you to Translet Speech To Text also you can Copy that Text . </p>
 
         <div className=" grid justify-items-center    " onClick={() => setTextCopy(transcript)}>
-          <div className="  w-1/3 h-96 border-2 rounded-md mt-12 p-8 shadow-2xl"  >
+          <div className="  w-1/3 h-96 border-2 rounded-md mt-12 p-8 shadow-2xl sm:w-1/2"  >
           {transcript}
           </div>
           <div className="flex justify-center m-4 text-white text-xl ">
